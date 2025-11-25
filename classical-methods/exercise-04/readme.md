@@ -5,4 +5,4 @@ In this exercise, the Romanian cities problem is further explored using the info
 ## Files
 
 - `exercise_04.md` - contains the text of the problem for this exercise
-- `romanian_map_problem/` - this directory contains solution for the romanian map problem.
+- `romanian_map_problem/` - this directory contains the solution for the Romanian map problem.

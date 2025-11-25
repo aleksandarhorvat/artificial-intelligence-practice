@@ -1,12 +1,12 @@
 # Exercise 1
 
-In this exercises we went through some basic python syntax and data structures.
+In this exercise, basic Python syntax and data structures are introduced.
 
 Files:
-- `intro.py` - contains some basic python syntax and data types
-- `conditions_and_loops.py` - contains some python conditions and loops examples
-- `functions.py` - contains some kinds of python functions
-- `data_structures.py` - operations with lists, tuples, sets, dictionaries, deque and priority queues
-- `files.py` - operations with files
+- `intro.py` - contains basic Python syntax and data types
+- `conditions_and_loops.py` - contains Python conditions and loops examples
+- `functions.py` - examples of Python functions
+- `data_structures.py` - operations with lists, tuples, sets, dictionaries, deque, and priority queues
+- `files.py` - file operations examples
 - `sample.txt` - sample file for `files.py`
-- `Problems/` - directory containing problems that are solved
+- `Problems/` - directory containing solved problems
