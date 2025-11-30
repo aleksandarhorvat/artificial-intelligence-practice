@@ -1,9 +1,9 @@
 # Exercise 1
 
-This exercise implements neural networks using the TensorFlow Keras API to recognize handwritten digits from the MNIST dataset.
+This exercise introduces neural networks and contains notebooks demonstrating core concepts and classification examples using the Keras API (TensorFlow backend).
 
 ## Files
 
-- `mnist/` - folder for the MNIST task (exercise)
-    - `mnist_solution.ipynb` - notebook with the solution for this exercise
-- `nn_visualization.ipynb` - notebook with the visualization of neural network decision boundaries
+- `introduction_to_nn.ipynb` - notebook introducing neural networks and basic concepts
+- `binary_classification.ipynb` - movie-review binary classification (IMDB) example
+- `multi_classification.ipynb` - Reuters multiclass classification example

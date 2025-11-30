@@ -52,8 +52,11 @@ This exercise continues exploring pandas and introduces basic data visualization
 
 This exercise introduces classical machine learning algorithms for classification tasks (0R, logistic regression, Naive Bayes, k-NN, decision tree, random forest) and their implementations in the scikit-learn library.
 
-
 ### Exercise 5
+
+This exercise introduces clustering methods and practical examples using the KMeans algorithm. It includes a demonstration notebook that uses the Iris dataset and a homework notebook that works with a synthetic food-preferences dataset.
+
+### Exercise 6
 
 This exercise addresses binary classification on the Titanic dataset. Topics include preprocessing tabular datasets, train-test splits, k-fold cross-validation, hyperparameter tuning, and model evaluation.
 
@@ -61,5 +64,9 @@ This exercise addresses binary classification on the Titanic dataset. Topics inc
 ## Neural Network
 
 ### Exercise 1
+
+This exercise introduces neural networks and contains notebooks demonstrating core concepts and classification examples using the Keras API (TensorFlow backend).
+
+### Exercise 2
 
 This exercise implements neural networks using the TensorFlow Keras API to recognize handwritten digits from the MNIST dataset.
