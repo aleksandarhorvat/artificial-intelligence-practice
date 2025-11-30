@@ -70,3 +70,7 @@ This exercise introduces neural networks and contains notebooks demonstrating co
 ### Exercise 2
 
 This exercise implements neural networks using the TensorFlow Keras API to recognize handwritten digits from the MNIST dataset.
+
+### Exercise 3
+
+This exercise contains practical notebooks that demonstrate convolutional and recurrent neural network examples using the TensorFlow Keras API.
