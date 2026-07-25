@@ -1,4 +1,4 @@
-# Exercise 5
+# Exercise 6
 
 This exercise addresses binary classification on the Titanic dataset. The notebooks use knowledge acquired in previous exercises to preprocess the data and create the data splits required to train and evaluate models. The same algorithms used earlier are trained and evaluated and their performance compared. For more reliable results, k-fold cross-validation is applied. After selecting an algorithm, hyperparameter tuning is performed to obtain the best possible results, measured with standard classification metrics (accuracy, precision, recall, F1 score). Finally, the trained model is used to make predictions on the test set for submission to the Kaggle competition.
 
