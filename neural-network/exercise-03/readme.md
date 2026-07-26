@@ -1,8 +1,10 @@
 # Exercise 3
 
-This exercise contains practical notebooks that demonstrate convolutional and recurrent neural network examples using the TensorFlow Keras API.
+## Overview
+
+This exercise contains practical deep learning notebooks focused on convolutional and recurrent architectures in TensorFlow Keras.
 
 ## Files
 
-- `convolutional_nn.ipynb` - CNN example, MNIST image classification.
-- `recurrent_nn.ipynb` - RNN example, LSTM time series prediction.
+- `convolutional_nn.ipynb` - CNN example for MNIST image classification.
+- `recurrent_nn.ipynb` - RNN/LSTM example for time-series prediction.

@@ -1,12 +1,16 @@
 # Exercise 5
 
-This exercise introduces clustering methods and practical examples using the KMeans algorithm. It includes a demonstration notebook that uses the Iris dataset and a homework notebook that works with a synthetic food-preferences dataset.
+## Overview
+
+This exercise introduces clustering with the KMeans algorithm through:
+- a guided Iris dataset example,
+- a homework-style notebook using a synthetic food preference dataset.
 
 ## Files
 
-- `datasets/` - input data used by the notebooks
-    - `iris.csv` - Iris dataset used in the demonstration notebook
-    - `food_preferences.csv` - synthetic dataset used in the homework notebook
-- `exercises_solutions/` - solution and exercise notebooks
-    - `exercise-clustering.ipynb` - homework notebook with example solutions
-- `clustering.ipynb` - demonstration notebook that walks through KMeans on the Iris dataset
+- `datasets/` - notebook input datasets.
+  - `iris.csv` - Iris dataset used in the demonstration notebook.
+  - `food_preferences.csv` - synthetic dataset for the homework notebook.
+- `exercises_solutions/` - exercise and solution notebooks.
+  - `exercise-clustering.ipynb` - homework notebook with example solutions.
+- `clustering.ipynb` - step-by-step KMeans demonstration on Iris.

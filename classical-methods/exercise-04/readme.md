@@ -1,8 +1,10 @@
 # Exercise 4
 
-In this exercise, the Romanian cities problem is further explored using the informed search algorithms A* and Greedy Best First Search (GBFS).
+## Overview
+
+This exercise extends the Romanian cities problem with informed search algorithms: A* and Greedy Best-First Search (GBFS).
 
 ## Files
 
-- `exercise_04.md` - contains the text of the problem for this exercise
-- `romanian_map_problem/` - this directory contains the solution for the Romanian map problem.
+- `exercise_04.md` - problem statement for this exercise.
+- `romanian_map_problem/` - implementation for the Romanian map task.
