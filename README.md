@@ -1,76 +1,49 @@
-# artificial-intelligence-practice
-A collection of exercises, experiments, and small projects created to explore concepts in artificial intelligence and machine learning.
+# Artificial Intelligence Practice
+
+A collection of hands-on exercises, experiments, and small projects for learning core artificial intelligence topics.
+
+## Repository Structure
+
+The repository is organized into three learning tracks:
+
+- **Classical Methods** (`classical-methods/`)  
+  Search algorithms, adversarial search, and state-space problem solving.
+- **Machine Learning** (`machine-learning/`)  
+  Data analysis, classical ML algorithms, clustering, and model evaluation.
+- **Neural Networks** (`neural-network/`)  
+  Introductory and practical deep learning notebooks using TensorFlow/Keras.
 
 ## Classical Methods
 
-### Exercise 1
-
-This exercise covers basic Python syntax and data structures.
-
-### Exercise 2
-
-This exercise covers OOP in Python and includes basic usage examples. Interfaces and problem definitions for the search algorithms used in later exercises.
-
-### Exercise 3
-
-This exercise implements uninformed search algorithms (BFS, DFS, UCS) to solve the Romanian cities problem.
-
-### Exercise 4
-
-This exercise continues work on the Romanian cities problem using informed search algorithms (A* and Greedy Best-First Search).
-
-### Exercise 5
-The word game problem is solved using informed search algorithms.
-
-### Exercise 6
-
-This exercise implements the minimax algorithm for Connect 4. Alpha-beta pruning and depth-limited Minimax are implemented to improve performance.
-
-### Exercise 7
-
-Minimax is implemented for Tic-Tac-Toe. Alpha-beta pruning and a depth-limited version of Minimax are also implemented to improve performance.
-
-### Exercise 8
-
-The 8-puzzle problem is solved using informed search algorithms (Greedy Best-First Search and A*).
+- **Exercise 1**: Basic Python syntax and data structures.
+- **Exercise 2**: OOP in Python, plus interfaces/problem definitions for later search tasks.
+- **Exercise 3**: Uninformed search (BFS, DFS, UCS) on the Romanian cities problem.
+- **Exercise 4**: Informed search (A* and Greedy Best-First Search) on the Romanian cities problem.
+- **Exercise 5**: Word game solved with informed search.
+- **Exercise 6**: Connect 4 solved with Minimax, alpha-beta pruning, and depth limits.
+- **Exercise 7**: Tic-Tac-Toe solved with Minimax, alpha-beta pruning, and depth limits.
+- **Exercise 8**: 8-puzzle solved with Greedy Best-First Search and A*.
 
 ## Machine Learning
 
-### Exercise 1
+- **Exercise 1**: Environment setup, Jupyter basics, and NumPy introduction.
+- **Exercise 2**: Introductory pandas tutorials and exercises.
+- **Exercise 3**: Intermediate pandas topics and seaborn-based visualization basics.
+- **Exercise 4**: Supervised classification and regression with scikit-learn.
+- **Exercise 5**: Clustering with KMeans (Iris demo + synthetic homework dataset).
+- **Exercise 6**: Titanic binary classification workflow (preprocessing, CV, tuning, evaluation).
 
-This exercise introduces machine learning. First, the conda environment used across the exercise is set up. Then Jupyter notebooks and the VS Code Jupyter extension are introduced. Finally, NumPy (the library for scientific computing in Python) is covered.
+## Neural Networks
 
-### Exercise 2
+- **Exercise 1**: Neural network fundamentals and Keras classification examples.
+- **Exercise 2**: MNIST digit classification with TensorFlow Keras.
+- **Exercise 3**: Practical CNN and RNN examples.
 
-This exercise introduces pandas (a library for data analysis in Python and working with tabular data).
+## Getting Started
 
-### Exercise 3
+1. Open the exercise folder you want to work on.
+2. Read the local `readme.md` for exercise-specific guidance.
+3. Run notebooks/scripts in your preferred Python environment.
 
-This exercise continues exploring pandas and introduces basic data visualization using the seaborn library.
-
-### Exercise 4
-
-This exercise introduces classical machine learning algorithms for classification tasks (0R, logistic regression, Naive Bayes, k-NN, decision tree, random forest) and their implementations in the scikit-learn library.
-
-### Exercise 5
-
-This exercise introduces clustering methods and practical examples using the KMeans algorithm. It includes a demonstration notebook that uses the Iris dataset and a homework notebook that works with a synthetic food-preferences dataset.
-
-### Exercise 6
-
-This exercise addresses binary classification on the Titanic dataset. Topics include preprocessing tabular datasets, train-test splits, k-fold cross-validation, hyperparameter tuning, and model evaluation.
-
-
-## Neural Network
-
-### Exercise 1
-
-This exercise introduces neural networks and contains notebooks demonstrating core concepts and classification examples using the Keras API (TensorFlow backend).
-
-### Exercise 2
-
-This exercise implements neural networks using the TensorFlow Keras API to recognize handwritten digits from the MNIST dataset.
-
-### Exercise 3
-
-This exercise contains practical notebooks that demonstrate convolutional and recurrent neural network examples using the TensorFlow Keras API.
+For machine learning exercises, start with:
+- `machine-learning/exercise-01/conda/conda_setup.md`
